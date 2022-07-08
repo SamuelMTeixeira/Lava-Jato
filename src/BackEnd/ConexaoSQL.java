@@ -18,9 +18,9 @@ public class ConexaoSQL {
     private Connection c;         
 
     public ConexaoSQL() {
-        String Database = "xx";
-        String user = "xx";
-        String password = "xx";
+        String Database = "xxx";
+        String user = "xxx";
+        String password = "xxx";
         
         String driver = "com.mysql.jdbc.Driver";
         String url = "jdbc:mysql://psc-samuelmo.mysql.uhserver.com:3306/" + Database;
